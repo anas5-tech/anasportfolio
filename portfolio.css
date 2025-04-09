@@ -18,35 +18,33 @@
     background-color: skyblue;
     border-radius: 3px;
   }
-  .about {
-      background-color: #f5f5f5;
-      color: #0A192F;
-  }
-  .card:hover{
-  background-color: skyblue;
-    color: white;
-  }
-.banner{
-    background-image: url(top-view-business-desk-composition-with-copy-space.jpg);
+  .banner{
+    background-image: url(../anas.portfolio/anas.porfolio.img/top-view-business-desk-composition-with-copy-space.jpg);
     padding: 250px 0px;
     background-size: cover;
     color: #0A192F;
     font-weight: 700;
     background-repeat: no-repeat;
 }
-
-
-.about h5{
+  .about {
+      color: #0A192F;
+  }
+  .about h5{
     font-weight: 700;
     text-decoration: underline;
 }
 .about p{
     font-weight: 400;
 }
+  .card:hover{
+  background-color: skyblue;
+    color: white;
+  }
+  
 .skills-padding {
    padding: 70px 0px;
 background-color: #0A192F;
-color: #f5f5f5;
+color: white;
 }
 .skills {
     font-weight: 700;
