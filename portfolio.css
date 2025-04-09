@@ -19,7 +19,7 @@
     border-radius: 3px;
   }
   .banner{
-    background-image: url(../anas.portfolio/anas.porfolio.img/top-view-business-desk-composition-with-copy-space.jpg);
+    background-image: url("anas.porfolio.img/top-view-business-desk-composition-with-copy-space.jpg");
     padding: 250px 0px;
     background-size: cover;
     color: #0A192F;
@@ -40,7 +40,6 @@
   background-color: skyblue;
     color: white;
   }
-  
 .skills-padding {
    padding: 70px 0px;
 background-color: #0A192F;
